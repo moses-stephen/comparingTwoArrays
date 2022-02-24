@@ -1,0 +1,18 @@
+{
+  "name": "getdeliverassetfromtwoarr",
+  "version": "1.0.0",
+  "description": "need to get unique assets from array of new assets by comparing with array of old elements.input is from excel and output is also to excel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.15",
+    "xlsx": "^0.17.4"
+  }
+}
